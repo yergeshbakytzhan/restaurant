@@ -1,0 +1,37 @@
+.together{
+    width: 100%;
+    height: auto;
+    padding: 250px 0;
+    background-image: url("../images/food2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.together h1{
+    font-weight: bold;
+    font-size: 70px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.together p{
+    color: #fff;
+    font-size: 25px;
+}
+.together button{
+    color: #ffffff;
+    font-size: 20px;
+    background: transparent;
+    border-radius: 300px;
+    outline: none;
+    padding: 7px 20px;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    border: #ffffff solid 2px;
+    transition: .2s;
+}
+.together button:hover{
+    color: #000000;
+    background: #ffffff;
+    transition: .2s;
+}

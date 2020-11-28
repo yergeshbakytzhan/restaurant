@@ -1,0 +1,14 @@
+.destination h4{
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.destination p{
+    font-size: 16px;
+}
+.destination{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    padding: 250px;
+}

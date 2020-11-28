@@ -1,0 +1,57 @@
+.foods{
+    width: 100%;
+    height: auto;
+    padding: 150px;
+}
+.foods h1{
+    margin-bottom: 70px;
+}
+.search {
+    width: 500px;
+    height: 45px;
+    margin: 20px auto 100px;
+    background: #444;
+    border-radius: 3px;
+    border: 1px solid #444;
+}
+.search input {
+    width: 370px;
+    padding: 10px;
+    float: left;
+    color: #ffffff;
+    border: 0;
+    background: #444;
+    border-radius: 3px 0 0 3px;
+}
+.search input::placeholder{
+    color: rgba(255,255,255,0.7);
+}
+.search input:focus {
+    outline: 0;
+    background:rgba(0,0,0,0.5);
+}
+
+
+.search button {
+    position: relative;
+    float: right;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 40px;
+    width: 120px;
+    color:  #fff;
+    background: #444;
+    border-left: 1px solid #000;
+    border-radius: 0 3px 3px 0;
+}
+.search button:hover {
+    background: #444;
+    color: rgba(255,255,255,0.7);
+}
+.search button:active {
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 1);
+}
+.search button:focus {
+    outline: 0;
+}

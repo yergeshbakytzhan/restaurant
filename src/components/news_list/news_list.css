@@ -1,0 +1,14 @@
+.foods{
+    width: 100%;
+    height: auto;
+    padding: 150px;
+}
+.foods Col{
+    height: auto;
+    margin: 100px 0;
+    cursor: pointer;
+}
+.foods h1{
+    padding: 20px;
+    text-transform: uppercase;
+}

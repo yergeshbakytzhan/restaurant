@@ -1,0 +1,29 @@
+.viewBtn button{
+    color: #000000;
+    font-size: 16px;
+    background: transparent;
+    border-radius: 300px;
+    outline: none;
+    padding: 7px 20px;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    border: #000000 solid 2px;
+    transition: .2s;
+}
+.viewBtn button:hover{
+    color: #ffffff;
+    background: #000000;
+    transition: .2s;
+}
+.menu{
+    width: 100%;
+    height: auto;
+    margin: 100px 0;
+}
+.paragraph{
+    margin: 50px;
+}
+.paragraph Col{
+    width: 600px;
+}

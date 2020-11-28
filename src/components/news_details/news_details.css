@@ -1,0 +1,37 @@
+.new-content{
+    width: 100%;
+    background-image: linear-gradient(to bottom right, #C1B6A8, #F3F3F3);
+}
+.content{
+    width: 85%;
+    height: auto;
+    margin: 0 auto;
+    padding: 200px 0;
+}
+.content h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 50px 0;
+    text-transform: uppercase;
+    color: black;
+}
+.content p{
+    font-size: 16px;
+    color: black;
+}
+.content-details{
+    margin-bottom: 200px;
+}
+.ant-card{
+    background: #F3F3F3 !important;
+}
+.ant-btn-primary{
+    background-color: #C1B6A8 !important;
+    border-color: #C1B6A8 !important;
+}
+.ant-input{
+    background: #F3F3F3 !important;
+}
+.ant-list-header{
+    color: #ffffff;
+}

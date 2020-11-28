@@ -1,0 +1,27 @@
+.rooms .room-details h2{
+    text-align: left;
+    color: rgb(60, 52, 47);
+    font-size: 30px;
+}
+.rooms .room-details h4{
+    text-align: left;
+    color: rgb(60, 52, 47);
+    font-size: 20px;
+}
+.rooms .room-details p{
+    text-align: left;
+    color: rgb(60, 52, 47);
+    font-size: 16px;
+}
+.room-contact p{
+    color: rgb(60, 52, 47);
+    font-size: 26px;
+}
+.room-contact{
+    margin: 100px 0;
+}
+.rooms{
+    padding: 70px 0;
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7cfb76f-066d-4386-8278-5e5d49770faa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SNrT3dzJzlOTHjw8EthoadiFtk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7cfb76f-066d-4386-8278-5e5d49770faa" name="Default Changelist" comment="" />
+      <created>1571414898898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571414898898</updated>
+      <workItem from="1571414900342" duration="3236000" />
+      <workItem from="1571459553248" duration="3384000" />
+      <workItem from="1571468657162" duration="5254000" />
+      <workItem from="1573837671846" duration="1062000" />
+      <workItem from="1573880708667" duration="1620000" />
+      <workItem from="1573888493187" duration="2677000" />
+      <workItem from="1574460696351" duration="4560000" />
+      <workItem from="1574495980618" duration="595000" />
+      <workItem from="1574532035382" duration="1214000" />
+      <workItem from="1574576463635" duration="6493000" />
+      <workItem from="1574688689463" duration="1826000" />
+      <workItem from="1575039623739" duration="1387000" />
+      <workItem from="1575041247420" duration="2234000" />
+      <workItem from="1575098374552" duration="4992000" />
+      <workItem from="1575105313505" duration="2777000" />
+      <workItem from="1575342055256" duration="25000" />
+      <workItem from="1575342272965" duration="185000" />
+      <workItem from="1575703500608" duration="1917000" />
+      <workItem from="1576942596284" duration="9959000" />
+      <workItem from="1576993953596" duration="4648000" />
+      <workItem from="1577897370796" duration="1149000" />
+      <workItem from="1580697098060" duration="1010000" />
+      <workItem from="1582826221077" duration="1023000" />
+      <workItem from="1583081844213" duration="2096000" />
+      <workItem from="1583115993149" duration="828000" />
+      <workItem from="1588534135388" duration="928000" />
+      <workItem from="1588554001994" duration="889000" />
+      <workItem from="1588779208340" duration="3226000" />
+      <workItem from="1589172265388" duration="1810000" />
+      <workItem from="1589211900227" duration="1340000" />
+      <workItem from="1589252238596" duration="2263000" />
+      <workItem from="1589309713202" duration="415000" />
+      <workItem from="1590298332555" duration="39000" />
+      <workItem from="1606585142650" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
